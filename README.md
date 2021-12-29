@@ -5,7 +5,9 @@
 [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 # MyReads Project
 
-This is the final assessment project for Udacity's React Fundamentals course, a bookshelf app that allows you to easily select and categorize books you have read, are currently reading, or want to read. 
+This is the final assessment project for Udacity's React Fundamentals course, a bookshelf app that allows you to easily select and categorize books you have read, are currently reading, or want to read.
+
+![image](public/screenshots.png)
 
 ## Quick Start
 
