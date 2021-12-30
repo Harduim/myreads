@@ -1,12 +1,10 @@
 import React, { Component } from 'react'
 import BookShelf from './BookShelf'
 import { Link } from 'react-router-dom'
-import logo from '../assets/logo.png'
 import PageLayout from './PageLayout'
 
-
 class BooksPage extends Component {
-  render() {
+  render () {
     return (
       <PageLayout>
         <div><div className='list-books-content'>
@@ -30,7 +28,8 @@ class BooksPage extends Component {
         </div>
           <div className='open-search'>
             <Link to='/search'><button>Add a book</button></Link>
-          </div></div>
+          </div>
+        </div>
       </PageLayout>
     )
   }
